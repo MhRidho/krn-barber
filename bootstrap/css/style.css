@@ -64,8 +64,8 @@ footer{
 }
 .contact{
 	min-height: 700px;
-	font-size: 
 }
+
 footer p{
 	color: #aaa;
 	font-size: 0.9em;
@@ -124,4 +124,20 @@ footer p i{
 
 .card:hover .close {
     color: red;
+}
+
+.wa{
+	width: 70px;
+	height: 70px;
+	border-radius: 100%;
+	background-color: yellowgreen;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	overflow: hidden;
+}
+.img-wa{
+	background-size: cover;
+	width: 70px;
+	height: 70px;
 }
